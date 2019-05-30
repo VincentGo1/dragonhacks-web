@@ -19,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <a href="/privacy.html">Privacy Policy</a>
       </header>
     </div>
   );
